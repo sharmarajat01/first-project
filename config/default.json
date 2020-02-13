@@ -1,0 +1,7 @@
+{
+    "PORT": "5000",
+    "MONGODB-URI": "mongodb://localhost:27017/firstProject",
+    "JWT_SECRET": "SECRET",
+    "JWT_EXP": "1d",
+    "SESSION_SECRET": "session_secret"
+}
